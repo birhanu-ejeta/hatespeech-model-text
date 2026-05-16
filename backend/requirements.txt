@@ -1,0 +1,17 @@
+flask 
+flask-sqlalchemy 
+flask-login 
+flask-wtf 
+flask-cors 
+python-telegram-bot==20.6 
+torch 
+transformers==4.55.0
+psutil 
+chapa 
+python-dotenv 
+httpx==0.25.0
+discord.py==2.7.1
+Flask-Limiter
+psycopg2-binary
+huggingface_hub
+gunicorn
